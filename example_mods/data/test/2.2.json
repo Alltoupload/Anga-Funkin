@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "scrollMenu",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "2.2 When?"
+		},
+		{
+			"sound": "GF_4",
+			"speed": 0.5,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "2.2 When?"
+		},
+		{
+			"sound": "scrollMenu",
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Everyone wants it!"
+		}
+	]
+}

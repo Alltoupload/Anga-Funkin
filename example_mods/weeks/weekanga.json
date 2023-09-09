@@ -1,0 +1,41 @@
+{
+	"storyName": "Anga, the test name",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Anga",
+			"anga",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Just A Test",
+			"all69",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"anga",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "The test name's week"
+}
